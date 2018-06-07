@@ -1,0 +1,13 @@
+.myclass{
+    border: 1px solid;
+    border-color: brown;
+    background: rgb(69, 214, 79);
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    /* color: yellow; */
+}
+#n{
+    font-size: 14pt;
+    font-weight: 700;
+}
