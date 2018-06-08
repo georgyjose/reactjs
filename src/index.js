@@ -21,3 +21,5 @@ ReactDOM.render(
   myvar,
   document.getElementById('root')
 );
+
+// This is a test statement
