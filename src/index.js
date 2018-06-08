@@ -7,8 +7,8 @@ import './index.css';
 function Ab(props){
 return (
   <div class='myclass'>
-    <p id='n'>Name: {props.name}</p>
-    <p>Age: {props.age}</p>
+    <p id='n'> Name: {props.name} </p>
+    <p> Age: {props.age} </p>
   </div>
 );
 }
